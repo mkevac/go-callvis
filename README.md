@@ -36,6 +36,9 @@ make
 ```
 
 ### Usage
+```
+go-callvis <main pkg> | dot -Tpng -o callvis.png
+```
 
 ```
 go-callvis [OPTIONS] <main pkg>
